@@ -689,7 +689,7 @@ footer img {
 
 @media (max-width: 768px) {
     .block-form__input {
-        right: 60px;
+        right: 80px;
         top: 26px;
         z-index: 10;
         width: 50px;
