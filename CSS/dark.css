@@ -692,6 +692,8 @@ footer img {
         right: 60px;
         top: 26px;
         z-index: 10;
+        width: 50px;
+        height: 20px;
     }
     /* <!-- ХЕДЕР --> */
     .header {
